@@ -10,10 +10,8 @@
 
 
 ## :sassy_man:  About me
-- I am Hamzah Aldaamas 🙋🏻‍♂️,I am 22 years old.
-- I studied cyber security at Al-Balqa Applied University.
-- I am learning with LTUC to be Full Stack Developer.
-- I love learning programming and developing myself.
+Full Stack Web Developer with a Background in Cyber Security. Passionate about using my knowledge to maximize efficiency while developing creative, customer focused solutions.
+Fluent in Arabic and have a professional level in English.
 
 <br>
 
